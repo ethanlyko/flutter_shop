@@ -1,0 +1,53 @@
+{
+    "setting_title": "設定",
+    "setting_about": "關於",
+    "setting_lang": "語言",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+    "setting_account": "我的帳戶",
+
+	"about_title": "關於",
+    "about_content": "這是我的 app",
+
+    "home_nav_home": "首頁",
+    "home_nav_category": "分類",
+    "home_nav_favorite": "最愛",
+    "home_nav_setting": "設定",
+    
+    "account_email_placeholder": "輸入 email",
+    "account_password_placeholder": "輸入密碼",
+    "account_password_confirm_placeholder": "確認密碼",
+    "account_login": "登入",
+    "account_forgot_password": "忘記密碼?",
+    "account_create_account": "建立帳號",
+    "account_name": "名字",
+    "account_email": "Email",
+    "account_password": "密碼",
+    "account_register_content": "建立你的帳號",
+    "account_logout": "登出",
+    "account_email_valid_error": "請輸入有效 email",
+    "account_password_valid_error": "密碼不能少於 8 位",
+    "account_confirm_valid_error": "密碼不符",
+    "account_title": "帳號",
+    
+    "cart_title": "購買清單",
+    "cart_buy_now": "立即購買",
+    "cart_total": "訂單總額",
+    "cart_remove_title": "確認",
+    "cart_remove_content": "確定要移除嗎",
+    "cart_add_item": "加入物品",
+    "cart_add_done": "已加入",
+    "cart_no_item": "沒有物品",
+    "cart_order_sent": "訂單已送出",
+    
+    "common_yes": "確定",
+    "common_cancel": "取消",
+    "common_or": "或",
+    "common_got_it": "知道了",
+    "common_no_data": "沒有資料",
+    "common_not_implemented": "沒有實作",
+
+    "search_hint": "搜尋",
+
+	"app_title": "Flutter 購物"
+}

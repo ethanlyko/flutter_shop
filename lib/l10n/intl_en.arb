@@ -1,0 +1,53 @@
+{
+    "setting_title": "Setting",
+    "setting_about": "About",
+    "setting_lang": "Language",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+    "setting_account": "My Account",
+
+	"about_title": "About",
+    "about_content": "This is my app",
+
+    "home_nav_home": "Home",
+    "home_nav_category": "Category",
+    "home_nav_favorite": "Favorite",
+    "home_nav_setting": "Setting",    
+
+    "account_email_placeholder": "Enter your email",
+    "account_password_placeholder": "Enter your password",
+    "account_password_confirm_placeholder": "Confirm password",
+    "account_login": "Sign in",
+    "account_forgot_password": "Forgot password?",
+    "account_create_account": "Create account",
+    "account_name": "Name",
+    "account_email": "Email",
+    "account_password": "Password",
+    "account_register_content": "Create Your Account",
+    "account_logout": "Logout",
+    "account_email_valid_error": "Enter a valid email",
+    "account_password_valid_error": "Password is less than 6-digit",
+    "account_confirm_valid_error": "Passwords do NOT match",
+    "account_title": "Account",
+
+    "cart_title": "Shopping List",
+    "cart_buy_now": "Buy Now",
+    "cart_total": "Order Total",
+    "cart_remove_title": "Confirmation",
+    "cart_remove_content": "Are you sure to remove?",
+    "cart_add_item": "Add Item",
+    "cart_add_done": "Added",
+    "cart_no_item": "No Item",
+    "cart_order_sent": "Order sent",
+    
+    "common_yes": "Yes",
+    "common_cancel": "Cancel",
+    "common_or": "or",
+    "common_got_it": "Got it",
+    "common_no_data": "No Data",
+    "common_not_implemented": "Not implemented",
+
+    "search_hint": "Search",
+
+	"app_title": "Flutter Shop"
+}
