@@ -1,5 +1,7 @@
 # flutter_shop
 
+### [English](README.md), [中文](README_zh-tw.md)
+
 This flutter shop project demonstrates the use of [Platzi Fake Store API](https://fakeapi.platzi.com/) to simulate e-commerce operations. It utlizes retrofit, riverpod, realm database, and firebase auth. Retrofit is a HTTP client library, riverpod is a reactive caching and data-binding framework to take care of application's logic, and realm is a mobile key-value database. Additionally, we use [firebase_auth](https://pub.dev/packages/firebase_auth) to handle user authentication.
 
 ![app preview](media/app_preview.gif)
@@ -16,7 +18,7 @@ This flutter shop project demonstrates the use of [Platzi Fake Store API](https:
    - [badges](https://pub.dev/packages/badges): A package for creating badges.
 
 ## How to Run
-  1. Clone source
+  1. git clone https://github.com/ethanlyko/flutter_shop.git
   2. firebase_auth
      - Follow the instructions of [Firebase document](https://firebase.google.com/docs/flutter/setup?platform=ios) to generate required files into the project
   3. Run it
